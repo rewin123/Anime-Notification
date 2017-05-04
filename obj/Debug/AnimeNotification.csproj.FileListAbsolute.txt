@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2015\Projects\AnimeNotification\AnimeNotification\bin\Debug\AnimeNotification.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\AnimeNotification\AnimeNotification\bin\Debug\AnimeNotification.exe
+c:\users\admin\documents\visual studio 2015\Projects\AnimeNotification\AnimeNotification\bin\Debug\AnimeNotification.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AnimeNotification\AnimeNotification\obj\Debug\AnimeNotification.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\AnimeNotification\AnimeNotification\obj\Debug\AnimeNotification.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\AnimeNotification\AnimeNotification\obj\Debug\AnimeNotification.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\AnimeNotification\AnimeNotification\obj\Debug\AnimeNotification.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\AnimeNotification\AnimeNotification\obj\Debug\AnimeNotification.exe
+c:\users\admin\documents\visual studio 2015\Projects\AnimeNotification\AnimeNotification\obj\Debug\AnimeNotification.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AnimeNotification\AnimeNotification\obj\Debug\AnimeNotification.Resource1.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\AnimeNotification\AnimeNotification\obj\Debug\AnimeNotification.Settings.resources
